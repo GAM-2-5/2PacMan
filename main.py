@@ -1,4 +1,5 @@
-from app_class import*
-if __ime__ == '__main__';
-  app = App()
-  app.run()
+from app_class import *  #Unosi sve funkcije app_class.py datoteke
+
+if __name__ == '__main__': #Pokrece igricu
+    app = App()
+    app.run()
