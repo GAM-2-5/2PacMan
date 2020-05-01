@@ -1,5 +1,15 @@
-# PacMan  
+# PacMan    
 
+
+Kod još uvijek ne dela, a meni se plače...  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
 Pac-man je arkadna igrica koja je izašla u ranim 80-ima u Japanu, razvijena u tvrtki Namco te je veliku popularnost našla u SAD-u.  
 
 Igrica Pac-man se sastoji od pet likova: igrača i četiri bota (duha) koji ga pokušavaju "pojesti" i tako mu oduzeti život.
